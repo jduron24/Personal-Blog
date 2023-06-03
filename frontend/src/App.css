@@ -216,16 +216,12 @@ font-size: 20px;
   border-radius: 15px;
 }
 .show_more_container{
-  border: 2px dotted black;
- 
 }
 .project-text-obstacle{
-  border: 2px dotted black;
   font-size: 15px;
   width: 500px
 }
 .project-container-OAR{
-  border: 2px dotted black;
   font-size: 15px;
   display: flex;
 }
@@ -234,7 +230,6 @@ font-size: 20px;
   display: flex;
 }
 .project-container-mm{
-  border: 2px dotted black;
   font-size: 15px;
   display: flex;
 }
