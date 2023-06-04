@@ -13,6 +13,10 @@
   }
 }
 
+.container{
+  border: 10px dashed gray;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -140,6 +144,8 @@ font-size: 20px;
 }
 
 .project-container{
+  align-content: center;
+  justify-content: center;
   margin-top: 15px;
   margin-left: 75px;
   margin-right: 75px;
@@ -156,7 +162,7 @@ font-size: 20px;
 
 .obstacle-avoiding-robot-container{
   width: 400px;
-  margin-left: 120px;
+  margin-left: 20px;
 }
 
 .project-image{
@@ -166,7 +172,8 @@ font-size: 20px;
 
 .project-text{
   font-size: 15px;
-  width: 500px;
+  width: 250px;
+  margin-left: 60px;
 }
 
 .Magic-Mirror-Containter{
@@ -301,7 +308,7 @@ font-size: 20px;
 }
 
 .blog-post{
-  width: 1540px;
+  width: 1200px;
   margin-top: 10px;
   margin-left: 80px;
 }

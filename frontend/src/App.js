@@ -18,6 +18,7 @@ function App() {
 
   return (
     <div className="App">
+      <div className='contianer'>
       <div className='title'>
         <h1>J</h1>
       </div>
@@ -102,7 +103,7 @@ function App() {
 
             <div className='blog-post'>
               <div className='title'>
-                  <p>Wednesday, May 31st 2023</p>
+                  <p>Sunday, June 4th 2023</p>
               </div>
               <div className='blog-text'>
                   <div className='title'>
@@ -110,9 +111,8 @@ function App() {
                   </div>
 
                   <div className='text'>
-                      <p>I am getting ready to finish up my website and have it uploaded to the internet. I am also working on updating my website to make it
-                         more presentable and modern. I'm not quite sure how I will upload it to the internet quite yet, that is something I still have to learn.
-                         I am thinking of using github to upload it but have to do more research into that. 
+                      <p> Currently making weekly updates to my website to attract my audience and fix a couple of bugs.  <br></br>
+                          I also am working on getting my leet code score up, just to touch up on my programming skills.
                       </p>
                   </div>
 
@@ -121,10 +121,10 @@ function App() {
                   </div>
 
                   <div className='text'>
-                      <p>One project I want to work on this summer is to build a website for my Mom's small business. She rents out throne chairs and photo booths.
-                         In her business her main audience are parties and quinceañera's, and my plan is too create a website using react, or maybe some other framework
-                         like Angular because why not learn something new. I plan on making a website where customers are able to see what my Mom has in her inventory and
-                         schedule dates they would want to reserve my Mom's products.
+                      <p>A project I will work on this summer is to build a website for my Mom's small business. My plan is 
+                         too create a website using react, or maybe some other framework like Angular, which I am not familiar with.
+                         I plan on making a website where customers see what my Mom's business is and are able to schedule dates they 
+                         would want to reserve products.
                       </p>
                   </div>
 
@@ -399,7 +399,8 @@ function App() {
 
 
       </div>
-
+    </div>
+        
       <div className='footer'>
         <p>Created by: Jonathan Duron</p>
       </div>
