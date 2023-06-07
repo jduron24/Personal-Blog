@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Personal-Blog/static/css/main.92c231f0.css",
-    "main.js": "/Personal-Blog/static/js/main.b5b67504.js",
+    "main.css": "/Personal-Blog/static/css/main.8503e47b.css",
+    "main.js": "/Personal-Blog/static/js/main.d29a1901.js",
     "static/media/obstacle_avoiding_robot_program.jpeg": "/Personal-Blog/static/media/obstacle_avoiding_robot_program.6b0c4137b85058912185.jpeg",
     "static/media/mm_image1.jpeg": "/Personal-Blog/static/media/mm_image1.a87fd0327d21d275a7d8.jpeg",
     "static/media/OAR_image1.jpeg": "/Personal-Blog/static/media/OAR_image1.836a27acef0262e90e6a.jpeg",
@@ -11,11 +11,11 @@
     "static/media/connect-4_image.jpeg": "/Personal-Blog/static/media/connect-4_image.87b004e9dca3dd1a6fe1.jpeg",
     "static/media/tech_image.jpeg": "/Personal-Blog/static/media/tech_image.04337a1591a0fc6ff856.jpeg",
     "index.html": "/Personal-Blog/index.html",
-    "main.92c231f0.css.map": "/Personal-Blog/static/css/main.92c231f0.css.map",
-    "main.b5b67504.js.map": "/Personal-Blog/static/js/main.b5b67504.js.map"
+    "main.8503e47b.css.map": "/Personal-Blog/static/css/main.8503e47b.css.map",
+    "main.d29a1901.js.map": "/Personal-Blog/static/js/main.d29a1901.js.map"
   },
   "entrypoints": [
-    "static/css/main.92c231f0.css",
-    "static/js/main.b5b67504.js"
+    "static/css/main.8503e47b.css",
+    "static/js/main.d29a1901.js"
   ]
 }
