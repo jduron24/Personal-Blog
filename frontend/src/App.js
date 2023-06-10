@@ -104,7 +104,7 @@ function App() {
 
                   <div className='blog-post'>
                     <div className='title'>
-                      <p>Sunday, June 4th 2023</p>
+                      <p>Saturday, June 9th 2023</p>
                     </div>
                     <div className='blog-text'>
                       <div className='title'>
@@ -114,7 +114,8 @@ function App() {
                       <div className='text'>
                         <div>
                           <p> Currently making weekly updates to my website to attract my audience and fix a couple of bugs.  <br></br>
-                            I also am working on getting my leet code score up, just to touch up on my programming skills.
+                            I also am working on getting my leet code score up, just to touch up on my programming skills. <br></br>
+                            Brainstorming ideas for the social media platform I am wanting to build. 
                           </p>
                         </div>
                       </div>
@@ -124,10 +125,12 @@ function App() {
                       </div>
 
                       <div className='text'>
-                        <p>A project I will work on this summer is to build a website for my Mom's small business. My plan is
-                          too create a website using react, or maybe some other framework like Angular, which I am not familiar with.
-                          I plan on making a website where customers see what my Mom's business is and are able to schedule dates they
-                          would want to reserve products.
+                        <p>A project I will work on this summer is to build a social media platform for small businesses. I am thinking
+                           about having a place where small businesses can have a space to communicate with eachother to either to collab
+                           or to help eachother out. So far I am in the brainstorming stage, still thinking about ideas. One Idea that I
+                           am having about was having a section on the website where small businesses request what they need Ex. graphica
+                           designers, accountants, ect. I also want a page on the website where cusomers can see all the local or small 
+                           businesses near their area.
                         </p>
                       </div>
 
